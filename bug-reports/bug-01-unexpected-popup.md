@@ -25,3 +25,6 @@ Medium
 
 ## Priority
 Medium
+
+## Screenshot
+![popup](../screenshots/bug-popup.png)
