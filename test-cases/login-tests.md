@@ -1,6 +1,6 @@
 # Login Test Cases – SauceDemo
 
-## TC01 – Login with valid credentials
+## TC-01 – Login with valid credentials
 
 **Preconditions:**
 - User is on login page https://www.saucedemo.com/
@@ -18,12 +18,12 @@
 - Login successful
 - Unexpected popup displayed suggesting password change
 
-**Status:** PASS with anomaly
+**Status:** PASS (Bug identified)
 
 
 ---
 
-## TC02 – Login with invalid credentials
+## TC-02 – Login with invalid credentials
 
 **Steps:**
 1. Enter username: standard_user
@@ -43,7 +43,7 @@
 
 ---
 
-## TC03 – Login with locked user
+## TC-03 – Login with locked user
 
 **Steps:**
 1. Enter username: locked_out_user
