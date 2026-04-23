@@ -19,3 +19,11 @@ This project demonstrates manual testing skills using SauceDemo application.
 
 ## Bug Reports
 - Unexpected popup after login
+
+## Test Environment
+- Browser: Chrome
+- OS: Windows
+- URL: https://www.saucedemo.com/
+
+## Bug Reports
+- [Unexpected popup after login](bug-reports/bug-01-unexpected-popup.md)
