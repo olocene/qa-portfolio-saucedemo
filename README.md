@@ -7,6 +7,11 @@ This project demonstrates manual testing skills using SauceDemo application.
 - Positive and negative test cases
 - Bug identification and reporting
 
+## Documentation
+- [Test Plan](test-plan.md)
+- [Login Test Cases](test-cases/login-tests.md)
+- [Bug Report – Unexpected Password Popup](bug-reports/bug-01-unexpected-popup.md)
+
 ## Tools Used
 - Jira
 - Manual testing
