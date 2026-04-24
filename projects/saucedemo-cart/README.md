@@ -10,7 +10,7 @@ This module covers manual testing of the cart functionality in the SauceDemo app
 
 ## Test Documentation
 - [Test Plan](./test-plan.md)
-- Test Cases: ./test-cases/
+- Test Cases: ./test-cases/cart-tests.md
 - Bug Reports: ./bug-reports/
 
 ## Notes
