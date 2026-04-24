@@ -49,7 +49,12 @@ Manual testing based on functional test cases.
 - Session handling inconsistencies
 - UI synchronization issues (badge/cart)
 
-## 10. Deliverables
-- Test cases documentation
-- Bug reports
-- Screenshots
+## 10. References
+
+- [Test Cases](./test-cases/)
+- [Bug Reports](./bug-reports/)
+- [Project README](./README.md)
+
+## 11. Known Issues
+
+No cart-specific issues identified during testing.
