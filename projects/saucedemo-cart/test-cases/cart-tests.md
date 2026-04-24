@@ -16,7 +16,8 @@
 - Cart badge shows "1"
 - Sauce Labs Backpack is displayed in the cart
 
-**Status:** Not executed
+**Status:** PASS
+**Notes:** all UI elements and data are correctly displayed
 
 ---
 
