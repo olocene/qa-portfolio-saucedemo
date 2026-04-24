@@ -1,10 +1,15 @@
-# QA Portfolio
+# QA Portfolio – Marco Ferrari
+
+This repository showcases my manual and automation testing skills.
 
 ## Projects
+- SauceDemo Login Testing
+- SauceDemo Cart Testing
+- API Testing (coming soon)
 
-### 🔹 SauceDemo – Login Testing
-- [Test Plan](projects/saucedemo-login/test-plan.md)
-- [Test Cases](projects/saucedemo-login/test-cases/login-tests.md)
-- [Bug Report](projects/saucedemo-login/bug-reports/bug-01-unexpected-popup.md)
-
-### 🔹 SauceDemo – Cart Testing (in progress)
+## Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Jira
+- GitHub
