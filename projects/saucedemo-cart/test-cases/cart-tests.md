@@ -17,6 +17,7 @@
 - Sauce Labs Backpack is displayed in the cart
 
 **Status:** PASS
+
 **Notes:** all UI elements and data are correctly displayed
 
 ---
@@ -56,7 +57,9 @@
 - Cart badge shows "2" after second product
 - Cart badge returns to "1" after removing one product
 
-**Status:** Not executed
+**Status:** PASS
+
+**Notes:** Badge correctly reflects number of items in cart in all scenarios.
 
 ---
 
