@@ -10,8 +10,8 @@ This module covers manual testing of the cart functionality in the SauceDemo app
 
 ## Test Documentation
 - [Test Plan](./test-plan.md)
-- Test Cases: ./test-cases/cart-tests.md
-- Bug Reports: ./bug-reports/
+- [Test Cases](./test-cases/cart-tests.md)
+- [Bug Reports](./bug-reports/bug-02-unexpected-logout-back-navigation.md)
 
 ## Notes
 This module focuses on frontend functional testing and user interaction behavior.
